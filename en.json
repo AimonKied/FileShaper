@@ -1,0 +1,16 @@
+{
+    "choose_folder": "Choose Folder",
+    "base_name": "Base Name for Renaming:",
+    "file_type": "Select File Type:",
+    "sort_by": "Sort by:",
+    "sort_and_rename": "Sort and Rename Files",
+    "images": "Images",
+    "videos": "Videos",
+    "modification_date": "Modification Date",
+    "file_name": "File Name",
+    "capture_date": "Capture Date",
+    "error_invalid_folder": "Please select a valid folder.",
+    "error_enter_base_name": "Please enter a base name.",
+    "completed": "Files have been sorted and renamed.",
+    "orientation": "Portrait/Landscape"
+}

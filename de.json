@@ -1,0 +1,16 @@
+{
+    "choose_folder": "Ordner auswählen",
+    "base_name": "Basisname für Umbenennung:",
+    "file_type": "Dateityp auswählen:",
+    "sort_by": "Sortieren nach:",
+    "sort_and_rename": "Dateien sortieren und umbenennen",
+    "images": "Bilder",
+    "videos": "Videos",
+    "modification_date": "Änderungsdatum",
+    "file_name": "Dateiname",
+    "capture_date": "Aufnahmedatum",
+    "error_invalid_folder": "Bitte einen gültigen Ordner auswählen.",
+    "error_enter_base_name": "Bitte einen Basisnamen eingeben.",
+    "completed": "Dateien wurden sortiert und umbenannt.",
+    "orientation": "Hochformat/Querformat"
+}
